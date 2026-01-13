@@ -50,9 +50,9 @@ This project recreates the classic Snake arcade game using Python. The player na
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/snake-game.git
+git clone https://github.com/NavinchandSahu/snake-game.git
 cd snake-game
-python snake.py
+python snake-game.py
 ````
 
 ---
